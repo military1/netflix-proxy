@@ -3,3 +3,5 @@ bogus-priv
 domain-needed
 log-facility=-
 local-ttl=60
+server=9.9.9.9
+server=149.112.112.112
