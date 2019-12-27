@@ -10,7 +10,7 @@ VERSION = '3.0'
 SQLITE_DB = 'db/auth.db' 
 
 # maximum number of authorized IPs per user 
-MAX_AUTH_IP_COUNT = 255
+MAX_AUTH_IP_COUNT = 5
 
 # automatic IP authorization without authentication
 # do not set this to True, unless you *really* know what you are doing
